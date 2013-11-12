@@ -343,5 +343,5 @@ Grunt, о котором уже заходила речь в разделе о Y
 [sapegin-grunt-repo]: https://github.com/sapegin/squirrelstrap
 [grunt-custom-templates]: http://gruntjs.com/project-scaffolding#custom-templates
 [sapegin-grunt-init]: http://nano.sapegin.ru/all/sozdanie-faylov-i-struktury-proekta-po-shablonam-s-pomoschyu-gru
-[webapp-setup]: img/webapp-Setup.png "Webapp Setup"
+[webapp-setup]: img/webapp-setup.png "Webapp Setup"
 [grunt-usemin]: https://github.com/yeoman/grunt-usemin
