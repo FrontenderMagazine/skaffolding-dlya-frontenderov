@@ -93,8 +93,9 @@ Yeoman “стоит на трёх китах”, задающих тон раб
 зависит от действий пользователя. Обычно на выбор предлагаются некоторые 
 фундаментальные вещи, от которых будет существенно зависеть дальнейший 
 процесс работы над проектом. В случае с webapp нам будет предложено
-выбрать хотим ли мы в проекте использовать Bootstrap для Sass, RequireJS и
-Modernizr.
+выбрать хотим ли мы в проекте использовать 
+[Bootstrap для Sass][sass-bootstrap], [RequireJS][requirejs] 
+и [Modernizr][modernizr].
 
 ![webapp-setup][webapp-setup]
 
@@ -345,3 +346,6 @@ Grunt, о котором уже заходила речь в разделе о Y
 [sapegin-grunt-init]: http://nano.sapegin.ru/all/sozdanie-faylov-i-struktury-proekta-po-shablonam-s-pomoschyu-gru
 [webapp-setup]: img/webapp-setup.png "Webapp Setup"
 [grunt-usemin]: https://github.com/yeoman/grunt-usemin
+[sass-bootstrap]: https://github.com/jlong/sass-bootstrap
+[requirejs]: https://github.com/jrburke/requirejs
+[modernizr]: https://github.com/Modernizr/Modernizr
