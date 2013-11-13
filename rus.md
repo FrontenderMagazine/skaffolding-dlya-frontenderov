@@ -246,16 +246,27 @@ Bower работает с протоколами Git и HTTP(S) и способ�
 
 #### Полезные генераторы Yeoman
 
-* [Web App][webapp]
-* [AngularJS][generator-angular]
-* [Backbone][generator-backbone]
-* [Ember][generator-ember]
-* [Mobile App][generator-mobile]
-* [Jasmine][generator-jasmine]
-* [Jumper][generator-jumper]
-* [Tâmia][generator-tamia]
-* [H5BP][H5BP]
-* [Bootstrap LESS][btsp-less]
+* [Web App][webapp] — генератор для инициализации веб-приложения на основе 
+HTML5Boilerplate и опциональными компонентами такими. Рассмотрен в статье.
+* [AngularJS][generator-angular] — генератор для инициализации 
+веб-приложения на основе AngularJS. Также опционально устанавливает Twitter 
+Bootstrap и дополнительные модули AngularJS, такие как angular-resource.
+* [Backbone][generator-backbone] — генератор для инициализации 
+веб-приложения на основе Backbone. Также вы получаете доступ к нескольким 
+суб-генераторам, которые могуты быть использованы для простого создания 
+моделей (models), представлений (views), коллекций (collections) и т.д.
+* [Ember][generator-ember] — генератор для инициализации веб-приложения на 
+основе Ember.js.
+* [Mobile App][generator-mobile] — генератор для инициализации веб-приложений 
+базирующихся на подходе mobile-first. Предоставляет возможность выбрать 
+фреймворк из следующих: Twitter Bootstrap 3, TopCoat, Zurb Foundation и Pure.
+* [Jasmine][generator-jasmine] — генератор который инициализирует проект, 
+использующий [Jasmine][jasmine] в качестве фреймворка для тестирования 
+проекта.
+* [H5BP][H5BP] — генератор для инициализации проекта на основе 
+HTML5Boilerplate.
+* [Bootstrap LESS][btsp-less] — генератор для инициализации проекта с 
+использованием LESS-версии фреймворка Twitter Bootstrap.
 
 ### Volo
 
@@ -333,7 +344,7 @@ Grunt, о котором уже заходила речь в разделе о Y
 [generator-jumper]: https://github.com/lancedikson/generator-jumper/blob/master/Russian.md
 [generator-jasmine]: https://github.com/yeoman/generator-jasmine
 [yeoman-new-generator]: http://yeoman.io/generators.html#writing-your-first-generator
-[generator-tamia]: https://npmjs.org/package/generator-tamia
+[generator-tamia]: https://github.com/sapegin/generator-tamia
 [generators-search]: http://yeoman.io/community-generators.html
 [Yeoman]: img/yeoman.png "Yeoman"
 [underscore.js]: http://underscorejs.org
@@ -349,3 +360,4 @@ Grunt, о котором уже заходила речь в разделе о Y
 [sass-bootstrap]: https://github.com/jlong/sass-bootstrap
 [requirejs]: https://github.com/jrburke/requirejs
 [modernizr]: https://github.com/Modernizr/Modernizr
+[jasmine]: http://pivotal.github.io/jasmine/
